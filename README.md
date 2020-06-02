@@ -1,6 +1,11 @@
 # sharezza-social
 
-Code from the terminal:
+**Screenshot from the terminal:**
+
+![Image](https://github.com/ritavigoncalves/sharezza-social/blob/master/Screenshot%202020-06-02%20at%2011.46.01.png?raw=true)
+
+
+**Code from the terminal:**
 
 ritavieiragoncalves@Rita-Vi sharezza-social % git add .
 
